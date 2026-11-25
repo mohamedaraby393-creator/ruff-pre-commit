@@ -1,4 +1,4 @@
-# ruff-pre-commit..
+# ..ruff-pre-commit
 
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 [![image](https://img.shields.io/pypi/v/ruff/0.17.6.svg)](https://pypi.python.org/pypi/ruff)
